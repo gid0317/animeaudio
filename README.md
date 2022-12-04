@@ -4,14 +4,14 @@ All audio extracted from Anime, music, voicelines and everything else
 Have fun listening them :)
 
 If you have any questions or suggestions :
-[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh) or [create a discussion](https://github.com/Escartem/GenshinAudio/discussions/new)
+[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh) or [create a discussion](/discussions/new)
 
 ---
 ## How to download
 You can :
-* [Browse the files](https://github.com/Escartem/GenshinAudio/tree/master/GeneratedSoundBanks) and download the ones you need individually
-* [Download the entire repo](https://github.com/Escartem/GenshinAudio/archive/refs/heads/master.zip) as a zip file (~18Gb)
-* Clone the repo with `git clone https://github.com/Escartem/GenshinAudio` including .git folder (~34Gb)
+* [Browse the files](../tree/master/GeneratedSoundBanks) and download the ones you need individually
+* [Download the entire repo](../archive/refs/heads/master.zip) as a zip file (~18Gb)
+* Clone the repo including .git folder (~34Gb)
 
 ---
 ## Some details
@@ -119,4 +119,4 @@ If you have any ideas about that, any help is appreciated <3
 ---
 ## Credits
 
-I do not own the music as they are the property of Genshin, but if you are using them it would be appreciated to credit this repo to help it gain popularity, thx <3
+I do not own the music as they are the property of Anime, but if you are using them it would be appreciated to credit this repo to help it gain popularity, thx <3
