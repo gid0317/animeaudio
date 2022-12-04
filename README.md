@@ -9,8 +9,8 @@ If you have any questions or suggestions :
 ---
 ## How to download
 You can :
-* [Browse the files](../tree/master/GeneratedSoundBanks) and download the ones you need individually
-* [Download the entire repo](../archive/refs/heads/master.zip) as a zip file (~18Gb)
+* Browse the files (../tree/master/GeneratedSoundBanks) and download the ones you need individually
+* Download the entire repo (../archive/refs/heads/master.zip) as a zip file (~18Gb)
 * Clone the repo including .git folder (~34Gb)
 
 ---
