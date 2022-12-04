@@ -120,4 +120,4 @@ If you have any ideas about that, any help is appreciated <3
 ## Credits
 By Escartem
 
-I do not own the music as they are the property of Anime, but if you are using them it would be appreciated to credit Escartem repo to help it gain popularity, thx <3
+I do not own the music as they are the property of Anime, but if you are using them it would be appreciated to credit [Escartem repo](https://github.com/Escartem/GenshinAudio) to help it gain popularity, thx <3
