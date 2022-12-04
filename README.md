@@ -1,5 +1,5 @@
-# GenshinAudio (also see : [GenshinTextures](https://github.com/Escartem/GenshinTextures) | [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes))
-All audio extracted from Genshin Impact, music, voicelines and everything else
+# AnimeAudio
+All audio extracted from Anime, music, voicelines and everything else
 
 Have fun listening them :)
 
